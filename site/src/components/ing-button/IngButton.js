@@ -9,9 +9,10 @@ export class IngButton extends LitElement {
       return css`
         button {
           background-color: orange;
-          padding: 5px 10px;
+          padding: 10px 15px;
           border-radius: 4px;
           border: none;
+          font-size: 18px;
           color: white;
           cursor: pointer;
         }
